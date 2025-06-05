@@ -6,7 +6,7 @@ This organization hosts mostly private repositories dedicated to managing my per
 ## ⚙️ Hardware overview
 
 Currently, my homelab consists of:
-- 2 × Raspberry Pi 5
+- 2 × Raspberry Pi 5 B, 8GB RAM
 
 ## 🪪 About Me
 

@@ -9,7 +9,7 @@ Currently, my homelab holds the following servers:
 - 2 x Raspberry Pi 5 B, 8GB RAM
 
 And depends on:
-- Any computer working as a control node.
+- 1 x Any kind of computer working as a control node.
 - 1 x tp-link TL-SG105 deskptop switch
 
 ## 🪪 About Me

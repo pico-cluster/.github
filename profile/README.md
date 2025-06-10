@@ -5,13 +5,12 @@ This organization hosts mostly private repositories dedicated to managing my per
 
 ## ⚙️ Hardware overview
 
-Currently, my homelab consists of:
-- 1 x tp-link TL-SG105 desktop switch
-- 2 × Raspberry Pi 5 B, 8GB RAM
-- 1 x Old refurbished laptop (CPU: 6 cores | 4.1 GHz, 16 GB RAM)
+Currently, my homelab holds the following servers:
+- 2 x Raspberry Pi 5 B, 8GB RAM
 
-And is controlled through:
-- 1 x My personnal computer :)
+And depends on:
+- Any computer working as a control node.
+- 1 x tp-link TL-SG105 deskptop switch
 
 ## 🪪 About Me
 
